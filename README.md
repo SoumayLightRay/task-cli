@@ -41,11 +41,4 @@ python task_cli.py mark-done 1
 python task_cli.py delete 1
 
 
----
 
-✅ After you create the README:
-
-```bash
-git add README.md
-git commit -m "Added README file"
-git push
